@@ -1,0 +1,14 @@
+# created by virtualenv automatically
+.ipynb_checkpoints
+etc
+Lib
+Scripts
+data_for_project.csv
+data_for_project1.csv
+Data.xlsx
+bnb2_model.pkl
+bnb_model.pkl
+mnb2_model.pkl
+mnb_model.pkl
+gnb2_model.pkl
+gnb_model.pkl
